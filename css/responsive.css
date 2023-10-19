@@ -405,6 +405,10 @@
     .introduction .inner {
         background: url(../images/black-transparent.png) repeat
     }
+    .myimg{
+        margin: 0 0;
+        margin-right: 40px;
+    }
     .introduction h2 {
         font-size: 35px;
         line-height: 40px;
